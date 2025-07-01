@@ -10,7 +10,7 @@ Chụp ảnh headless web:
 
 ![image](https://github.com/user-attachments/assets/95d63f9e-3dd4-4651-b4aa-78a76e2bea8c)
 
-Khi so sánh với chính facebook.com
+Khi so sánh với chính facebook.com, và tự so sánh với chính nó
 
 ![image](https://github.com/user-attachments/assets/3a28bbab-67c6-4103-be31-0adf69032a03)
 

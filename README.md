@@ -24,3 +24,19 @@ Pillow đã phát hiện ra các pixel nào khác, và so sánh chúng với nha
 
 2.Deface dựa trên Dom:
 
+Lấy DOM của facabook.com làm ví dụ(set baseline)
+![image](https://github.com/user-attachments/assets/2debe1f3-4c65-47bf-a124-a1b09cdfc829)
+![image](https://github.com/user-attachments/assets/4f3e5ac9-9ec7-4ef6-8863-a515604b29e8)
+
+So sánh với chính facebook.com
+![image](https://github.com/user-attachments/assets/c2d36cc3-a335-44a7-a48f-5b92bb4cae6f)
+
+So sánh với youtube.com(và in 10 dòng khác biệt)
+![image](https://github.com/user-attachments/assets/73a18b29-fd76-420c-a03d-f1781a9d76ba)
+
+3. Deface dựa trên thay đổi file metadata
+
+![image](https://github.com/user-attachments/assets/c9102cae-81fa-4f82-ad4b-fb14601ac17f)
+
+![image](https://github.com/user-attachments/assets/f778e8c0-c5b6-4027-b7ad-e8291d62f820)
+
